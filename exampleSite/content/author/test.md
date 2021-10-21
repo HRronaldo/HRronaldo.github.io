@@ -2,7 +2,7 @@
 draft = true
 email = "hrronaldo@163.com"
 image = ""
-title = "Test"
+title = "hrronaldo_test"
 [[social]]
 icon = ""
 link = ""
