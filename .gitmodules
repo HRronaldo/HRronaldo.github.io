@@ -1,0 +1,3 @@
+[submodule "hugo_blog/themes/persian"]
+    path = hugo_blog/themes/persian
+    url = git@github.com:HRronaldo/HRronaldo.github.io.git
