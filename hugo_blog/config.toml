@@ -4,7 +4,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "5"
 theme = "persian"
-title = "Persian"
+title = "月夜斋诗云的博客"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -30,9 +30,9 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
-author = "Themefisher"
+author = "hrronaldo"
 contact_form_action = "#"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [hrronaldo](https://github.com/HRronaldo)"
 description = "This is meta description"
 logo = "images/logo.png"
 search = true
